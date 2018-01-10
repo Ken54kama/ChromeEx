@@ -1,0 +1,15 @@
+{
+  "name": "demo",
+  "version": "2.0",
+  "description": "ProtoType",
+  "icons":{
+    "gan":"gan.jpg"
+  },
+  "broswer_action":{
+    "default_icon" : "gan.jpg",
+    "default_popup" : "consult.html"
+  },
+  "permissions" :[
+    "http://localhost/"
+  ]
+}
